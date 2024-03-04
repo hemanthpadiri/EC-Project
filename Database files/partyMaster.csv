@@ -1,0 +1,467 @@
+﻿party_id,Name,national,Symbol,Active,President 
+0001,AIFB,1,Avocado,1,V V Khalid
+0002,IND,1,Banana,1,N K P Nair
+0003,SP,1,Bilberry,1,Saravanan
+0004,CPI(ML)(L),1,Blackberry,1,Gour Chandra Majumder
+0005,BSP,1,Blackcurrant,1,R.S.Uma Bharatthy
+0006,NCP,1,Black sapote,1,None Of The Above
+0007,NOTA,1,Blueberry,1,Prakash Minj
+0008,CPM,0,Boysenberry,1,HAMDULLAH SAYEED
+0009,AITC,1,Breadfruit,1,JAI PRAKASH AGARWAL
+0010,AAAP,1,Avocado,1,ARVINDER SINGH LOVELY
+0011,INC,1,Banana,1,AJAY MAKAN
+0012,BJP,1,Bilberry,1,SHEILA DIKSHIT
+0013,TDP,1,Blackberry,1,GUGAN SINGH
+0014,TRS,1,Blackcurrant,1,RAGHAV CHADHA
+0015,BCUF,1,Black sapote,1,MAHABAL MISHRA
+0016,NIP,1,Blueberry,1,KETAN DAHYABHAI PATEL
+0017,MaSP,0,Boysenberry,1,PATEL NATUBHAI GOMANBHAI
+0018,RPI,1,Breadfruit,1,PAWAN KUMAR BANSAL
+0019,PPOI,1,Avocado,1,VISHAL JOLLY
+0020,RP(K),1,Banana,1,Godam Nagesh
+0021,YSRCP,1,Bilberry,1,Dr. Boora Narsaiah Goud
+0022,BMUP,1,Avocado,1,Konda Vishweshwar Reddy
+0023,RPI(A),1,Banana,1,Dr. BHAGAVANTH RAO
+0024,WPOI,1,Bilberry,1,BOIANAPALLI VINOD KUMAR
+0025,MBT,0,Blackberry,1,RENUKA CHOWDHURY
+0026,APRSSP,1,Blackcurrant,1,Balaram Naik Porika
+0027,BCBDP,1,Black sapote,1,ARUNA D.K
+0028,TLP,1,Blueberry,1,RAJASHEKAR REDDY MARRI
+0029,SHS,1,Boysenberry,1,Anil Kumar Gali
+0030,JaSPa,1,Breadfruit,1,DR MALLU RAVI
+0031,SHP,1,Avocado,1,VEMIREDDY NARASIMHA REDDY
+0032,AIMIM,1,Banana,1,KALVAKUNTLA KAVITHA
+0033,LSP,1,Bilberry,1,Agam Chandrasekhar
+0034,sps,0,Blackberry,1,TALASANI SAI KIRAN YADAV
+0035,SUCI,1,Blackcurrant,1,DOMMATI SAMBAIAH
+0036,IUML,1,Black sapote,1,MADAN MOHAN RAO
+0037,ABML(S),1,Blueberry,1,Pradeep Tamta
+0038,JAP,1,Boysenberry,1,Manish Khanduri
+0039,pjdl,1,Breadfruit,1,Ambrish Kumar
+0040,mmsp,1,Avocado,1,Harish Rawat
+0041,RPI(KH),1,Banana,1,PRITAM SINGH
+0042,RSP,1,Bilberry,1,MANOJ KUMAR YADAV
+0043,TECPI,0,Avocado,1,KIRTI AZAD
+0044,ICSP,1,Banana,1,SHIBU SOREN
+0045,NBNP,1,Bilberry,1,Jagarnath Mahto
+0046,SP(I),1,Blackberry,1,Pradeep Yadav
+0047,AIACP,1,Blackcurrant,1,GOPAL PRASAD SAHU
+0048,MCPI,1,Black sapote,1,Champai Soren
+0049,RLD,1,Blueberry,1,KALI CHARAN MUNDA
+0050,CPI,1,Boysenberry,1,BABU LAL MARANDI
+0051,DABAP,1,Breadfruit,1,SUKHDEO BHAGAT
+0052,RJD,0,Avocado,1,GHURAN RAM
+0053,RPC(S),1,Banana,1,HEMLAL MURMU
+0054,GaAP,1,Bilberry,1,SUBODH KANT SAHAY
+0055,ILP(AP),1,Blackberry,1,LAXMAN GILUWA
+0056,ARPS,1,Blackcurrant,1,BAIDU RAM KASHYAP
+0057,NPT,1,Black sapote,1,ATAL SHRIVASTAV
+0058,GRIP,1,Blueberry,1,PRATIMA CHANDRAKAR
+0059,SDP,1,Boysenberry,1,RAVI PARASRAM BHARDWAJ
+0060,STR,0,Breadfruit,1,BIRESH THAKUR
+0061,RPS,1,Avocado,1,JYOTI NAND DUBEY
+0062,JD(S),1,Banana,1,DHANENDRA SAHU
+0063,ANC,1,Bilberry,1,LALJEET SINGH RATHIA
+0064,JD(U),1,Avocado,1,Pramod Dubey
+0065,RDHP,1,Banana,1,BHOLA RAM SAHU
+0066,HJP,1,Bilberry,1,Khel Sai Singh
+0067,LB,1,Blackberry,1,DASRATH TIRKEY
+0068,PPA,1,Blackcurrant,1,TAPAN KUMAR RAY
+0069,AGP,0,Black sapote,1,MOON MOON SEN
+0070,AIUDF,1,Blueberry,1,APURBA SARKAR (DAVID)
+0071,JMM,1,Boysenberry,1,Arpita Ghosh
+0072,BOPF,1,Breadfruit,1,MAMATA THAKUR
+0073,rdsc,1,Avocado,1,SUBRATA MUKHERJEE
+0074,JPS,1,Banana,1,Mrinal Kanti Debnath
+0075,BED,1,Bilberry,1,PARESH CHANDRA DAS
+0076,JDR,1,Blackberry,1,DINESH TRIVEDI
+0077,JKNPP,0,Blackcurrant,1,Sayantan Basu
+0078,JMBP,1,Black sapote,1,DUDH KUMAR MONDAL
+0079,KS,1,Blueberry,1,SHYAMAL SANTRA
+0080,BJKVP,1,Boysenberry,1,DAS RAMPRASAD
+0081,NaLP,1,Breadfruit,1,DR. MAMTAZ SANGHAMITA
+0082,SKLP,1,Avocado,1,ADHIKARY PARESH CHANDRA
+0083,ravp,1,Banana,1,AMAR SINGH RAI
+0084,SJP(R),1,Bilberry,1,NILANJAN ROY
+0085,LD,1,Avocado,1,SAMIK BHATTACHARYA
+0086,BLSP,0,Banana,1,BHARATI GHOSH
+0087,AKBMP,1,Bilberry,1,DR. RATNA DE (NAG)
+0088,JPJD,1,Blackberry,1,Rantidev Sengupta
+0089,VIP,1,Blackcurrant,1,ANUPAM HAZRA
+0090,BVM,1,Black sapote,1,BIJOY CHANDRA BARMAN
+0091,JHP,1,Blueberry,1,MAFUJA KHATUN
+0092,LKJP,1,Boysenberry,1,Birbaha Saren
+0093,BMF,1,Breadfruit,1,DR. ASHOK KANDARY
+0094,PSS,1,Avocado,1,Dr. Debasis Samanta
+0095,RVNP,0,Banana,1,Chandra Kumar Bose
+0096,JDP,1,Bilberry,1,RAHUL (BISWAJIT) SINHA
+0097,BJJD,1,Blackberry,1,KALYAN CHAUBEY
+0098,BEMP,1,Blackcurrant,1,SREERUPA MITRA CHAUDHURY
+0099,PECP,1,Black sapote,1,MAUSAM NOOR
+0100,PBI,1,Blueberry,1,SHYAMAPRASAD HALDER
+0101,RKSP,1,Boysenberry,1,Manas Ranjan Bhunia
+0102,LPSP,1,Breadfruit,1,"ABU HENA, S/O - LATE ABDUS SATTAR"
+0103,RSMD,1,Avocado,1,Dr. MRIGANKA MAHATO
+0104,LJP,0,Banana,1,AGARWAL KANAIALAL
+0105,RBCP,1,Bilberry,1,RUPALI BISWAS
+0106,RJJM,1,Avocado,1,DEBJIT SARKAR
+0107,SWSP,1,Banana,1,Sidharthashankar Naskar
+0108,GGP,1,Bilberry,1,JOY BANERJEE
+0109,BJPARTY,1,Blackberry,1,Manoj Kumar Soni
+0110,MHD,1,Blackcurrant,1,Nisha Sachan
+0111,NADP,1,Black sapote,1,DR. AJEET BALIYAN
+0112,BBC,0,Blueberry,1,Rajendra Singh Patel
+0113,RND,1,Boysenberry,1,Mukut Bihari
+0114,SaBP,1,Breadfruit,1,Rahul Gandhi
+0115,NTP,1,Avocado,1,KANWAR SINGH TANWAR
+0116,NLP,1,Banana,1,RUCHIVIRA
+0117,KVD,1,Bilberry,1,Dinesh Lal Yadav Nirahua
+0118,BBMP,1,Blackberry,1,Dharmendra Yadav
+0119,BIP,1,Blackcurrant,1,JAYANT CHAUDHARY
+0120,APCP,1,Black sapote,1,SHABBIR BALMIKI
+0121,BJKD,0,Blueberry,1,Sanatan Pandey
+0122,HVD,1,Boysenberry,1,SHYAMA CHARAN GUPTA
+0123,ABJS,1,Breadfruit,1,Sadal Prasad
+0124,PMSP,1,Avocado,1,Ram Sagar Rawat
+0125,SBSP,1,Banana,1,BHAGWAT SARAN GANGWAR
+0126,RSWD,1,Bilberry,1,RAM PRASAD CHAUDHARY
+0127,SSD,1,Avocado,1,RANGNATH MISHRA
+0128,RAHM,1,Banana,1,RAJA BHARATENDRA SINGH
+0129,MOSP,0,Bilberry,1,YOGESH VERMA
+0130,HEP,1,Blackberry,1,Sanjay Singh Chauhan
+0131,IVD,1,Blackcurrant,1,BINOD KUMAR JAISWAL
+0132,RGOP,1,Black sapote,1,ARSHAD ILIYAS SIDDIQUI
+0133,APoI,1,Blueberry,1,AFTAB ALAM
+0134,BSCP,1,Boysenberry,1,Ku. Devendra Singh Yadav
+0135,CSM,1,Breadfruit,1,KAMLESH KUMAR
+0136,chp,1,Avocado,1,ANAND SEN
+0137,bhmm,1,Banana,1,Manoj Agarwal
+0138,CPIM,0,Bilberry,1,SUKHDEV PRASAD VERMA
+0139,SSBD,1,Blackberry,1,RAJ BABBAR
+0140,AKAAD,1,Blackcurrant,1,Akshay Yadav
+0141,AD,1,Black sapote,1,SATVEER
+0142,GOA,1,Blueberry,1,Suresh Bansal
+0143,GSRP,1,Boysenberry,1,MANOJ SINHA
+0144,RPIE,1,Breadfruit,1,HARINARAYAN
+0145,VHS,1,Avocado,1,VINOD KUMAR ALIAS PANDIT SINGH
+0146,BNJD,1,Banana,1,Rambhual Nishad
+0147,NYP,0,Bilberry,1,DILIP KUMAR SINGH
+0148,LoRP,1,Avocado,1,Usha Verma
+0149,PAP,1,Banana,1,RAMJI LAL SUMAN
+0150,HND,1,Bilberry,1,AJAY SINGH (PANKAJ)
+0151,BSDL,1,Blackberry,1,KRISHNA PRATAP SINGH K.P.
+0152,ABCD(A),1,Blackcurrant,1,Shyam Sundar Singh
+0153,LSWP,1,Black sapote,1,Tabassum Begum
+0154,RKEP,1,Blueberry,1,Chandradev Ram Yadav
+0155,YuS,1,Boysenberry,1,DIMPLE YADAV
+0156,RSPS,0,Breadfruit,1,Sriprakash Jaiswal
+0157,ADPT,1,Avocado,1,INDRAJEET SAROJ
+0158,ADSP,1,Banana,1,Dr. Purvi Verma
+0159,VoP,1,Bilberry,1,N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA
+0160,RAKP,1,Blackberry,1,Neelam Sonker
+0161,INLD,1,Blackcurrant,1,Poonam Shatrughan Sinha
+0162,NAJC,1,Black sapote,1,Tribhuvan Ram (T.Ram)
+0163,IBSPK,1,Blueberry,1,AKHILESH
+0164,LPR,0,Boysenberry,1,PREM SINGH SHAKYA
+0165,BhSMP,1,Breadfruit,1,KUNWAR NARENDRA SINGH
+0166,JM,1,Avocado,1,HAJI MOHAMMAD YAQOOB
+0167,HJCBL,1,Banana,1,Ramcharitra Nishad
+0168,RPP(LB),1,Bilberry,1,Dr Neelu Satyarthi
+0169,RJP(E),1,Avocado,1,C. L. Verma
+0170,RJAVP,1,Banana,1,KUNWAR SARVESH KUMAR
+0171,RBHP,1,Bilberry,1,Ajit Singh
+0172,PHRC,1,Blackberry,1,DR. YASHWANT SINGH
+0173,RBC,0,Blackcurrant,1,Pandhari Yadav
+0174,RMOP,1,Black sapote,1,Hemraj Verma
+0175,RUC,1,Blueberry,1,ASHOK TRIPATHI
+0176,AVIRP,1,Boysenberry,1,DINESH PRATAP SINGH
+0177,AIPF,1,Breadfruit,1,Jayaprada Nahata
+0178,ABHKP,1,Avocado,1,BHAI LAL
+0179,ABHM,1,Banana,1,RAGHAV LAKHANPAL
+0180,hkd,1,Bilberry,1,R S KUSHWAHA
+0181,HiSP,0,Blackberry,1,PARAMESHVAR LAL SAINI
+0182,PRISM,1,Blackcurrant,1,BHEESHMA SHANKAR
+0183,JPC,1,Black sapote,1,Amar Chandra Jauhar
+0184,JKN,1,Blueberry,1,DADDAN MISHRA
+0185,JKPDP,1,Boysenberry,1,Nakul Dubey
+0186,AKAKRP,1,Breadfruit,1,"CHANDRA BHADRA SINGH ""SSONU"""
+0187,ASP,1,Avocado,1,Arun Shanker Shukla
+0188,BHBP,1,Banana,1,SHALINI YADAV
+0189,AJKMP,1,Bilberry,1,Maharaj kumari Pragya DebBurman
+0190,AJSUP,0,Avocado,1,Subal Bhowmik
+0191,JVM,1,Banana,1,A.K. MOORTHY
+0192,JVD,1,Bilberry,1,ELUMALAI V
+0193,SAP,1,Blackberry,1,SAM PAUL. S.R.
+0194,RJM,1,Blackcurrant,1,ALAGAAPURAM R. MOHANRAJ
+0195,JKP,1,Black sapote,1,Dr.J.JAYAVARDHAN
+0196,RADP,1,Blueberry,1,CHANDRASEKAR P
+0197,SLP(L),1,Boysenberry,1,RADHAKRISHNAN. C.P
+0198,AIMF,1,Breadfruit,1,Dr. R. GOVINDASAMY
+0199,AMB,0,Avocado,1,ANBUMANI RAMADOSS
+0200,MCO,1,Banana,1,"JOTHIMUTHU, K."
+0201,AKBJHP,1,Bilberry,1,MANIMARAN G
+0202,JKP(N),1,Blackberry,1,Sudhish L K
+0203,MMM,1,Blackcurrant,1,Maragatham K
+0204,JBSP,1,Black sapote,1,RADHAKRISHNAN. P
+0205,pms,1,Blueberry,1,Thambidurai M
+0206,SJPA,1,Boysenberry,1,K.P.MUNUSAMY
+0207,KAP,1,Breadfruit,1,RAJ SATYEN V.V.R
+0208,BHPP,0,Avocado,1,ASAIMANI. S
+0209,NDEP,1,Banana,1,SARAVANAN M
+0210,BDBRAJP,1,Bilberry,1,KALIAPPAN P
+0211,RCMP,1,Avocado,1,"THIYAGARAJAN, M."
+0212,VJCP,1,Banana,1,"SIVAPATHY, N.R"
+0213,JVBP,1,Bilberry,1,MAHENDRAN. C
+0214,SDPI,1,Blackberry,1,NAINAR NAGENTHRAN
+0215,DPPS,1,Blackcurrant,1,SARAVANAN.K.R.S
+0216,asdp,0,Black sapote,1,H.RAJA
+0217,KDC,1,Blueberry,1,Vaithilingam A
+0218,KCVP,1,Boysenberry,1,Dr.KRISHNASAMY.K
+0219,SJD,1,Breadfruit,1,"NATARAJAN,N.R ."
+0220,igp,1,Avocado,1,"ELANGOVAN, E.V.K.S."
+0221,SRP,1,Banana,1,Dr.P.Venugopal
+0222,KEC(M),1,Bilberry,1,DR. TAMILISAI SOUNDARARAJAN
+0223,RSPK(B),1,Blackberry,1,DR.Elangovan. V
+0224,SLAP,1,Blackcurrant,1,PAUL MANOJ PANDIAN
+0225,BA S D,0,Black sapote,1,"ANANDAN, M.S.M."
+0226,ALHP,1,Blueberry,1,AGRI KRISHNAMURTHY S S
+0227,BhNaP,1,Boysenberry,1,VADIVEL RAVANAN S
+0228,bjyp,1,Breadfruit,1,"ALAGARSAMY, R."
+0229,BRMD,1,Avocado,1,DEK BAHADUR KATWAL
+0230,MAHP,1,Banana,1,Riju Jhunjhunwala
+0231,JND,1,Bilberry,1,Bhanwar Jitendra Singh
+0232,BBPSP,1,Avocado,1,TARACHAND BHAGORA
+0233,BC,0,Banana,1,MANVENDRA SINGH
+0234,BSDS,1,Bilberry,1,ABHIJEET KUMAR JATAV
+0235,DaVP,1,Blackberry,1,RAM PAL SHARMA
+0236,SamSP,1,Blackcurrant,1,MADAN GOPAL MEGHWAL
+0237,RsAD,1,Black sapote,1,Gopal Singh Shekhawat
+0238,NPEP,1,Blueberry,1,RAFIQUE MANDELIA
+0239,BHSSP,1,Boysenberry,1,Savita Meena
+0240,MNDP,1,Breadfruit,1,BHARAT RAM MEGHWAL
+0241,PRSP,1,Avocado,1,Jyoti Khandelwal
+0242,SaVP,0,Banana,1,KRISHNA POONIA
+0243,BMSM,1,Bilberry,1,Ratan Devasi
+0244,AMS,1,Blackberry,1,PRAMOD SHARMA
+0245,ABVCP,1,Blackcurrant,1,SHARWAN KUMAR S/O GOKAL RAM
+0246,SWJP,1,Black sapote,1,Vaibhav Gehlot
+0247,BBM,1,Blueberry,1,SANJAY KUMAR
+0248,AwVP,1,Boysenberry,1,RAMNARAIN MEENA
+0249,MPS(T),1,Breadfruit,1,DR. JYOTI MIRDHA
+0250,PRCP,1,Avocado,1,BADRIRAM JAKHAR
+0251,NRSN,0,Banana,1,Devkinandan (Kaka)
+0252,ARP,1,Bilberry,1,Subhash Maharia
+0253,DESEP,1,Avocado,1,Namonarayan
+0254,ABMP,1,Banana,1,RAGHUVIR SINGH MEENA
+0255,MVA,1,Bilberry,1,HARDEEP SINGH PURI
+0256,MNS,1,Blackberry,1,Professor Prem Singh Chandumajra
+0257,RSSDP,1,Blackcurrant,1,Amrinder Singh Raja Warring
+0258,BVA,1,Black sapote,1,Gulzar Singh Ranike
+0259,RBS,1,Blueberry,1,DARBARA SINGH GURU
+0260,RAPa,0,Boysenberry,1,SHER SINGH GHUBAYA
+0261,DaP,1,Breadfruit,1,SUNIL JAKHAR
+0262,PPIS,1,Avocado,1,Dr. RAJ KUMAR CHABBEWAL
+0263,SVPP,1,Banana,1,Charanjit Singh Atwal
+0264,lpi,1,Bilberry,1,BIBI JAGIR KAUR
+0265,HSCP,1,Blackberry,1,SIMARJEET SINGH BAINS
+0266,PWPI,1,Blackcurrant,1,Surjit Singh Rakhra
+0267,bns,1,Black sapote,1,KEWAL SINGH DHILLON
+0268,PG,1,Blueberry,1,Anita Subhadarshini
+0269,SVRP,1,Boysenberry,1,RABINDRA KUMAR JENA
+0270,BJSP,0,Breadfruit,1,Prasanna Acharya
+0271,HiPPa,1,Avocado,1,BHRUGU BAXIPATRA
+0272,SWP,1,Banana,1,AVIMANYU SETHI
+0273,MDPF,1,Bilberry,1,Arup Mohan Patnaik
+0274,NPF,1,Avocado,1,Kalikesh Narayan Singh Deo
+0275,UDP,1,Banana,1,PRAKASH MISHRA
+0276,VSP,1,Bilberry,1,RUDRA NARAYAN PANY
+0277,bjdi,1,Blackberry,1,BIBHU PRASAD TARAI
+0278,BGTD,1,Blackcurrant,1,AMIYA KANTA MALLICK
+0279,BPC,0,Black sapote,1,PUSPENDRA SINGH DEO
+0280,RJ,1,Blueberry,1,Mahameghabahan Aira Kharabela Swain
+0281,ATBP,1,Boysenberry,1,BAIJAYANT PANDA
+0282,kajp,1,Breadfruit,1,Ananta Nayak
+0283,BRAVP,1,Avocado,1,KAUSALYA HIKAKA
+0284,BRPP,1,Banana,1,DR DEBASHIS MARNDI
+0285,REP,1,Bilberry,1,PRADEEP KUMAR MAJHI
+0286,BSKP,1,Blackberry,1,Dr Sambit Patra
+0287,AGRJP,0,Blackcurrant,1,NALINI KANTA PRADHAN
+0288,BJM,1,Black sapote,1,Sunita Biswal
+0289,SPP,1,Blueberry,1,K L Chishi
+0290,BVLP,1,Boysenberry,1,LALNGHINGLOVA HMAR
+0291,RaJPa,1,Breadfruit,1,JEMINO MAWTHOH
+0292,Aa S P,1,Avocado,1,DR. MUKUL SANGMA
+0293,RJAP,1,Banana,1,OINAM NABAKISHORE SINGH
+0294,ABSP,1,Bilberry,1,Houlim Shokhopao Mate
+0295,JSMP,1,Avocado,1,SANGRAM ARUNKAKA JAGTAP
+0296,PCHVP,0,Banana,1,Ambedkar (Adv) Prakash Yashwant
+0297,BJD,1,Bilberry,1,Adsul Anandrao Vithoba
+0298,KOKD,1,Blackberry,1,Chandrakant Khaire
+0299,ojm,1,Blackcurrant,1,Kanchan Rahul Kool
+0300,RAIM,1,Black sapote,1,Bajrang Manohar Sonwane
+0301,AOP,1,Blueberry,1,Panchabudhe Nana Jairam
+0302,skd,1,Boysenberry,1,TAWARE SURESH KASHINATH
+0303,SAMO,1,Breadfruit,1,Dr. Rajendra Bhaskarrav Shingne
+0304,PMK,1,Avocado,1,Ahir Hansraj Gangaram
+0305,DMK,0,Banana,1,Kunalbaba Rohidas Patil
+0306,ADMK,1,Bilberry,1,Dhanraj Haribhau Mahale
+0307,AINRC,1,Blackberry,1,Dr. NAMDEO DALLUJI USENDI
+0308,SSPD,1,Blackcurrant,1,Raju Anna Shetti
+0309,MEDP,1,Black sapote,1,Wankhede Subhashrao Bapurao
+0310,NBDP,1,Blueberry,1,Gulabrao Baburao Deokar
+0311,DBSP,1,Boysenberry,1,Autade Vilas Keshavrao
+0312,DCP,1,Breadfruit,1,BABAJI BALARAM PATIL
+0313,BSP(A),1,Avocado,1,Dhananjay Mahadik
+0314,aimpr,0,Banana,1,Kamant Machhindra Gunwantrao
+0315,SAD(M),1,Bilberry,1,Sanjaymama Vitthalrao Shinde
+0316,SAD,1,Avocado,1,PARTH AJIT PAWAR
+0317,BhJaSP,1,Banana,1,Deora Milind Murli
+0318,aicp,1,Bilberry,1,Urmila Matondkar
+0319,IKL,1,Blackberry,1,DUTT PRIYA SUNIL
+0320,JanSP,1,Blackcurrant,1,Patil Sanjay Dina
+0321,PLP,1,Black sapote,1,Sanjay Nirupam
+0322,ABSR,0,Blueberry,1,Eknath M. Gaikwad
+0323,RJVP,1,Boysenberry,1,NANA PATOLE
+0324,nuzp,1,Breadfruit,1,Ashok Shankarrao Chavan
+0325,JGP,1,Avocado,1,Adv. K. C. Padavi
+0326,bhp,1,Banana,1,Sameer Magan Bhujbal
+0327,BNNP,1,Bilberry,1,Ranajagjitsinha Padmasinha Patil
+0328,LS,1,Blackberry,1,Baliram Sukur Jadhav
+0329,IPGP,1,Blackcurrant,1,RAJESH UTTAMRAO VITEKAR
+0330,BYS,1,Black sapote,1,Mohan Joshi
+0331,AAP,0,Blueberry,1,Anant Geete
+0332,AKBAP,1,Boysenberry,1,Kishore Uttamrao Gajbhiye
+0333,SKM,1,Breadfruit,1,Nilesh Narayan Rane
+0334,SDF,1,Avocado,1,Dr.Ulhas Vasudeo Patil
+0335,DMDK,1,Banana,1,Vishal Prakashbapu Patil
+0336,VCK,1,Bilberry,1,NARENDRA ANNASAHEB PATIL
+0337,MMKA,1,Avocado,1,KAMBLE BHAUSAHEB MALHARI
+0338,TNMC,1,Banana,1,Adhalrao Shivaji Dattatrey
+0339,NOC,0,Bilberry,1,SHINDE SUSHILKUMAR SAMBHAJIRAO
+0340,APM,1,Blackberry,1,ANAND PRAKASH PARANJPE
+0341,UMK,1,Blackcurrant,1,Charulata Rao Tokas
+0342,MDMK,1,Black sapote,1,Thakre Manikrao Govindrao
+0343,UCPI,1,Blueberry,1,MADHU BHAGAT
+0344,ADSMK,1,Boysenberry,1,RAMU TEKAM (ADVOCATE)
+0345,JMM(U),1,Breadfruit,1,DEVASHISH
+0346,TTNC,1,Avocado,1,DIGVIJAYA SINGH
+0347,UPI,1,Banana,1,NATHANSAHA KAWRETI
+0348,MAMAK,0,Bilberry,1,PRATAP SINGH
+0349,NMK,1,Blackberry,1,PRAHLAD SINGH TIPANYA
+0350,ETMK,1,Blackcurrant,1,GIRWAL DINESH
+0351,DFBL,1,Black sapote,1,JYOTIRADITYA M. SCINDIA
+0352,JJ,1,Blueberry,1,ASHOK SINGH
+0353,PT,1,Boysenberry,1,SHAILENDRA DIWAN CHANDARBHAN SINGH
+0354,IVP,1,Breadfruit,1,PANKAJ SANGHVI
+0355,TPGC,1,Avocado,1,Pt. VIVEK KRISHNA TANKHA
+0356,IPFT,1,Banana,1,MAHARANI KAVITA SINGH NATIRAJA
+0357,ARVP,0,Bilberry,1,ARUN SUBHASH CHANDRA YADAV
+0358,BaVaP,1,Avocado,1,DR. GOVIND SUBHAN MUJALDA
+0359,VAJP,1,Banana,1,KAMAL SINGH MARAVI
+0360,MKUP,1,Bilberry,1,Meenakshi Natarajan
+0361,AIRSP,1,Blackberry,1,RAMNIWAS RAWAT
+0362,RWSP,1,Blackcurrant,1,MONA SUSTANI
+0363,MD,1,Black sapote,1,KANTILAL BHURIA
+0364,IBSP,1,Blueberry,1,"SIDDHARTH TIWARI ""RAJ"""
+0365,NAP,1,Boysenberry,1,PRABHU SINGH THAKUR
+0366,SSKP,0,Breadfruit,1,RAJARAM TRIPATHI
+0367,RAC,1,Avocado,1,PRAMILA SINGH
+0368,SSAD,1,Banana,1,Ajay Arjun Singh
+0369,RPD,1,Bilberry,1,Ahirwar Kiran
+0370,NNP,1,Blackberry,1,BABULAL MALVIYA
+0371,RTKP,1,Blackcurrant,1,Shailendra Rameshchandra Patel
+0372,IOP,1,Black sapote,1,Adv. SHANIMOL OSMAN
+0373,RtrJP,1,Blueberry,1,DR. P.K.BIJU
+0374,ABSC,1,Boysenberry,1,Dr. A. SAMPATH
+0375,DND,1,Breadfruit,1,INNOCENT
+0376,RtJP,0,Avocado,1,P RAJEEV
+0377,RSD,1,Banana,1,"Adv, JOICE GEORGE"
+0378,RSOSP,1,Bilberry,1,P. K. SREEMATHI TEACHER
+0379,RMGP,1,Avocado,1,K. P. Sathishchandran
+0380,RVP,1,Banana,1,K.N.Balagopal
+0381,A S P,1,Bilberry,1,V.N. Vasavan
+0382,BKPP,1,Blackberry,1,A.PRADEEP KUMAR
+0383,RJPK,1,Blackcurrant,1,V.P. Sanu
+0384,NP,1,Black sapote,1,CHITTAYAM GOPAKUMAR
+0385,LPI(V),0,Blueberry,1,M B RAJESH
+0386,BRVP,1,Boysenberry,1,VEENA GEORGE
+0387,BKrD,1,Breadfruit,1,P.V. Anvar Puthan Veetil
+0388,BNIP,1,Avocado,1,KUMMANAM RAJASEKHARAN
+0389,JKM,1,Banana,1,RAJAJI MATHEW THOMAS
+0390,NEP,1,Bilberry,1,P.JAYARAJAN
+0391,jhspt,1,Blackberry,1,P.P. Suneer
+0392,ISSP,1,Blackcurrant,1,Veena Kashappanavar
+0393,SARP,0,Black sapote,1,Rizwan Arshad
+0394,MwSP,1,Blueberry,1,Krishna Byregowda
+0395,SWPI,1,Boysenberry,1,ASHWATHNARAYANGOWDA
+0396,ASaP,1,Breadfruit,1,B.K.HARIPRASAD
+0397,RRP,1,Avocado,1,Dr.SADHUNAVAR
+0398,MaSPa,1,Banana,1,V. S. UGRAPPA
+0399,INL,1,Bilberry,1,ESHWAR B. KHANDRE
+0400,BHNKP,1,Avocado,1,DR. SUNITA DEVANAND CHAVAN
+0401,UPRP,1,Banana,1,R. DHRUVANARAYANA
+0402,RVLP,0,Bilberry,1,M.Veerappa Moily
+0403,BKP,1,Blackberry,1,PRAKASH BABANNA HUKKERI
+0404,NJC,1,Blackcurrant,1,B N CHANDRAPPA
+0405,HKRD,1,Black sapote,1,MITHUN M RAI
+0406,MBCOI,1,Blueberry,1,H B MANJAPPA
+0407,RaMSP,1,Boysenberry,1,Vinay Kulkarni
+0408,ssrd,1,Breadfruit,1,MALLIKARJUN KHARGE
+0409,PGSP,1,Avocado,1,MANJU A
+0410,QED,1,Banana,1,D.R. PATIL
+0411,KMBS,0,Bilberry,1,K.H. MUNIYAPPA
+0412,RaIP,1,Blackberry,1,K.RAJASHEKAR BASAVARAJ HITNAL
+0413,RshJP,1,Blackcurrant,1,NIKHIL KUMARASWAMY
+0414,ABAS,1,Black sapote,1,C.H.VIJAYASHANKAR
+0415,PSJP,1,Blueberry,1,B. V NAIK
+0416,ABRS,1,Boysenberry,1,S.MADHUBANGARAPPA
+0417,ARWP,1,Breadfruit,1,H. D. DEVEGOWDA
+0418,RrSP,1,Avocado,1,PRAMOD MADHWARAJ
+0419,EKSP,1,Banana,1,ANAND ASNOTIKAR
+0420,BKSL,0,Bilberry,1,GHULAM AHMAD MIR
+0421,RGD,1,Avocado,1,RAJA AIJAZ ALI
+0422,RaBaP,1,Banana,1,Raman Bhalla
+0423,MADP,1,Bilberry,1,Sajjad Hussain
+0424,JSEP,1,Blackberry,1,Aga Syed Mohsin
+0425,JSK,1,Blackcurrant,1,VIKRAMADITYA SINGH
+0426,BRABSVP,1,Black sapote,1,RAM LAL THAKUR
+0427,S(J),1,Blueberry,1,Pawan Kajal
+0428,AAMJP,0,Boysenberry,1,AASHRAY SHARMA
+0429,BSP(K),1,Breadfruit,1,DHANI RAM SHANDIL
+0430,IPP,1,Avocado,1,SELJA
+0431,PPI,1,Banana,1,Shruti Choudhry
+0432,ADUP,1,Bilberry,1,AVTAR SINGH BHADANA
+0433,DNP,1,Blackberry,1,CAPT. AJAY SINGH
+0434,MOP,1,Blackcurrant,1,DUSHYANT CHAUTALA
+0435,BaSaP,1,Black sapote,1,Kuldip Sharma
+0436,JaRaP,1,Blueberry,1,NIRMAL SINGH
+0437,RaCP,0,Boysenberry,1,DEEPENDER SINGH HOODA
+0438,SaSaP,1,Breadfruit,1,Ashok Tanwar
+0439,BSD,1,Avocado,1,BHUPINDER SINGH HOODA
+0440,SaDa,1,Banana,1,Gitaben Patel
+0441,JRPa,1,Bilberry,1,RAJU PARMAR
+0442,JaRaPa,1,Avocado,1,Paresh Dhanani
+0443,BSKD,1,Banana,1,BHARATBHAI MADHAVSINH SOLANKI
+0444,ESKP,1,Bilberry,1,PARTHIBHAI GALBABHAI BHATOL
+0445,MaJP,0,Blackberry,1,CHAUDHARI DR. TUSHARBHAI AMARSINHBHAI
+0446,RVMP,1,Blackcurrant,1,Sherkhan Abdulsakur Pathan
+0447,BhNP,1,Black sapote,1,PATEL MANHARBHAI NAGJIBHAI (VASANI)
+0448,RaAD,1,Blueberry,1,RATHAVA RANJITSINH MOHANSINH
+0449,AMP,1,Boysenberry,1,KATARA BABUBHAI KHIMABHAI
+0450,BRPI,1,Breadfruit,1,Dr. C. J. CHAVDA
+0451,shsap,1,Avocado,1,KANDORIYA MULUBHAI RANMALBHAI
+0452,BMNSP,1,Banana,1,VANSH PUNJABHAI BHIMABHAI
+0453,raup,1,Bilberry,1,NARESH NARANBHAI MAHESHWARI
+0454,UPP,0,Blackberry,1,Bimal Shah
+0455,BCP,1,Blackcurrant,1,A. J. Patel
+0456,BKLJP,1,Black sapote,1,PATEL DHARMESHBHAI BHIMBHAI
+0457,RaJSP,1,Blueberry,1,Khant Vechatbhai Kuberbhai
+0458,RJNP,1,Boysenberry,1,JAGDISH THAKOR
+0459,grac,1,Breadfruit,1,LALIT VASOYA
+0460,PDS,1,Avocado,1,KAGATHARA LALITBHAI
+0461,JeSM,1,Banana,1,THAKOR RAJENDRASINH SHIVSINH
+0462,NSBP,1,Bilberry,1,Ashok Patel (Adhevada)
+0463,TRMRPPI,0,Avocado,1,KOLI PATEL SOMABHAI GANDALAL
+0464,IJP,1,Banana,1,PRASHANT PATEL (TIKO)
+0465,IUC,1,Bilberry,1,CHAUDHARI JITUBHAI HARJIBHAI
+0466,JHAP,1,Blackberry,1,GIRISH RAYA CHODANKAR

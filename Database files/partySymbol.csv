@@ -1,0 +1,467 @@
+﻿Symbolid,Symbol,Active,Alloted,party_id,Name,President 
+0001,Avocado,1,1,0001,AIFB,V V Khalid
+0002,Banana,1,1,0002,IND,N K P Nair
+0003,Bilberry,1,1,0003,SP,Saravanan
+0004,Blackberry,1,1,0004,CPI(ML)(L),Gour Chandra Majumder
+0005,Blackcurrant,1,1,0005,BSP,R.S.Uma Bharatthy
+0006,Black sapote,1,1,0006,NCP,None Of The Above
+0007,Blueberry,1,1,0007,NOTA,Prakash Minj
+0008,Boysenberry,1,1,0008,CPM,HAMDULLAH SAYEED
+0009,Breadfruit,1,1,0009,AITC,JAI PRAKASH AGARWAL
+0010,Lion,1,1,0010,AAAP,ARVINDER SINGH LOVELY
+0011,Palm,1,1,0011,INC,AJAY MAKAN
+0012,Lotus,1,1,0012,BJP,SHEILA DIKSHIT
+0013,bicycle,1,1,0013,TDP,GUGAN SINGH
+0014,Zebra,1,1,0014,TRS,RAGHAV CHADHA
+0015,Cheetah,1,0,,,
+0016,Panda,1,1,0016,NIP,KETAN DAHYABHAI PATEL
+0017,Kangaroo,1,1,0017,MaSP,PATEL NATUBHAI GOMANBHAI
+0018,Koala,1,1,0018,RPI,PAWAN KUMAR BANSAL
+0019,Gorilla,1,1,0019,PPOI,VISHAL JOLLY
+0020,Hippopotamus,1,1,0020,RP(K),Godam Nagesh
+0021,Rhinoceros,1,1,0021,YSRCP,Dr. Boora Narsaiah Goud
+0022,Polar bear,1,1,0022,BMUP,Konda Vishweshwar Reddy
+0023,Grizzly bear,1,1,0023,RPI(A),Dr. BHAGAVANTH RAO
+0024,Chimpanzee,1,1,0024,WPOI,BOIANAPALLI VINOD KUMAR
+0025,Dolphin,1,1,0025,MBT,RENUKA CHOWDHURY
+0026,Whale,1,1,0026,APRSSP,Balaram Naik Porika
+0027,Shark,1,1,0027,BCBDP,ARUNA D.K
+0028,Penguin,1,0,,,
+0029,Ostrich,1,1,0029,SHS,Anil Kumar Gali
+0030,Crocodile,1,1,0030,JaSPa,DR MALLU RAVI
+0031,Alligator,1,1,0031,SHP,VEMIREDDY NARASIMHA REDDY
+0032,Snake,1,1,0032,AIMIM,KALVAKUNTLA KAVITHA
+0033,Lizard,1,1,0033,LSP,Agam Chandrasekhar
+0034,Turtle,1,1,0034,sps,TALASANI SAI KIRAN YADAV
+0035,Frog,1,1,0035,SUCI,DOMMATI SAMBAIAH
+0036,Toad,1,1,0036,IUML,MADAN MOHAN RAO
+0037,Salamander,1,1,0037,ABML(S),Pradeep Tamta
+0038,Octopus,1,1,0038,JAP,Manish Khanduri
+0039,Jellyfish,1,1,0039,pjdl,Ambrish Kumar
+0040,Seahorse,1,1,0040,mmsp,Harish Rawat
+0041,Lobster,1,1,0041,RPI(KH),PRITAM SINGH
+0042,Crab,1,1,0042,RSP,MANOJ KUMAR YADAV
+0043,Butterfly,1,1,0043,TECPI,KIRTI AZAD
+0044,Bee,1,1,0044,ICSP,SHIBU SOREN
+0045,Ant,1,1,0045,NBNP,Jagarnath Mahto
+0046,Spider,1,1,0046,SP(I),Pradeep Yadav
+0047,Scorpion,1,1,0047,AIACP,GOPAL PRASAD SAHU
+0048,Bat,1,1,0048,MCPI,Champai Soren
+0049,Squirrel,1,1,0049,RLD,KALI CHARAN MUNDA
+0050,Rabbit,1,1,0050,CPI,BABU LAL MARANDI
+0051,Fox,1,1,0051,DABAP,SUKHDEO BHAGAT
+0052,Deer,1,1,0052,RJD,GHURAN RAM
+0053,Moose,1,1,0053,RPC(S),HEMLAL MURMU
+0054,Wolf,1,1,0054,GaAP,SUBODH KANT SAHAY
+0055,Coyote,1,1,0055,ILP(AP),LAXMAN GILUWA
+0056,Raccoon,1,1,0056,ARPS,BAIDU RAM KASHYAP
+0057,Skunk,1,1,0057,NPT,ATAL SHRIVASTAV
+0058,Otter,1,1,0058,GRIP,PRATIMA CHANDRAKAR
+0059,Hedgehog,1,1,0059,SDP,RAVI PARASRAM BHARDWAJ
+0060,Mole,1,1,0060,STR,BIRESH THAKUR
+0061,Platypus,1,1,0061,RPS,JYOTI NAND DUBEY
+0062,Koala,1,1,0062,JD(S),DHANENDRA SAHU
+0063,Tasmanian Devil,1,1,0063,ANC,LALJEET SINGH RATHIA
+0064,Dingo,1,1,0064,JD(U),Pramod Dubey
+0065,Chimpanzee,1,1,0065,RDHP,BHOLA RAM SAHU
+0066,Gorilla,1,1,0066,HJP,Khel Sai Singh
+0067,Orangutan,1,1,0067,LB,DASRATH TIRKEY
+0068,Lemur,1,1,0068,PPA,TAPAN KUMAR RAY
+0069,Sloth,1,1,0069,AGP,MOON MOON SEN
+0070,Armadillo,1,1,0070,AIUDF,APURBA SARKAR (DAVID)
+0071,Camel,1,1,0071,JMM,Arpita Ghosh
+0072,Horse,1,1,0072,BOPF,MAMATA THAKUR
+0073,Cow,1,1,0073,rdsc,SUBRATA MUKHERJEE
+0074,Sheep,1,1,0074,JPS,Mrinal Kanti Debnath
+0075,Goat,1,1,0075,BED,PARESH CHANDRA DAS
+0076,Pig,1,1,0076,JDR,DINESH TRIVEDI
+0077,Chicken,1,1,0077,JKNPP,Sayantan Basu
+0078,Duck,1,1,0078,JMBP,DUDH KUMAR MONDAL
+0079,Turkey,1,1,0079,KS,SHYAMAL SANTRA
+0080,Eagle,1,1,0080,BJKVP,DAS RAMPRASAD
+0081,Hawk,1,1,0081,NaLP,DR. MAMTAZ SANGHAMITA
+0082,Falcon,1,1,0082,SKLP,ADHIKARY PARESH CHANDRA
+0083,Owl,1,1,0083,ravp,AMAR SINGH RAI
+0084,Parrot,1,1,0084,SJP(R),NILANJAN ROY
+0085,Penguin,1,1,0085,LD,SAMIK BHATTACHARYA
+0086,Sparrow,1,1,0086,BLSP,BHARATI GHOSH
+0087,Pigeon,1,1,0087,AKBMP,DR. RATNA DE (NAG)
+0088,Swan,1,1,0088,JPJD,Rantidev Sengupta
+0089,Flamingo,1,1,0089,VIP,ANUPAM HAZRA
+0090,Peacock,1,1,0090,BVM,BIJOY CHANDRA BARMAN
+0091,Hummingbird,1,1,0091,JHP,MAFUJA KHATUN
+0092,Rattlesnake,1,1,0092,LKJP,Birbaha Saren
+0093,Cobra,1,0,,,
+0094,Anaconda,1,1,0094,PSS,Dr. Debasis Samanta
+0095,Python,1,1,0095,RVNP,Chandra Kumar Bose
+0096,Garter snake,1,1,0096,JDP,RAHUL (BISWAJIT) SINHA
+0097,Kingfisher,1,1,0097,BJJD,KALYAN CHAUBEY
+0098,Starfish,1,1,0098,BEMP,SREERUPA MITRA CHAUDHURY
+0099,Clam,1,1,0099,PECP,MAUSAM NOOR
+0100,Dolphin,1,1,0100,PBI,SHYAMAPRASAD HALDER
+0101,Otter,1,1,0101,RKSP,Manas Ranjan Bhunia
+0102,Whale,1,1,0102,LPSP,"ABU HENA, S/O - LATE ABDUS SATTAR"
+0103,Shark,1,1,0103,RSMD,Dr. MRIGANKA MAHATO
+0104,Stingray,1,1,0104,LJP,AGARWAL KANAIALAL
+0105,Eel,1,1,0105,RBCP,RUPALI BISWAS
+0106,Goldfish,1,1,0106,RJJM,DEBJIT SARKAR
+0107,Acacia,1,1,0107,SWSP,Sidharthashankar Naskar
+0108,Aloe,1,1,0108,GGP,JOY BANERJEE
+0109,Alpenrose,1,1,0109,BJPARTY,Manoj Kumar Soni
+0110,Amaranth,1,1,0110,MHD,Nisha Sachan
+0111,American Lotus,1,1,0111,NADP,DR. AJEET BALIYAN
+0112,Anise hyssop,1,1,0112,BBC,Rajendra Singh Patel
+0113,Azalea,1,1,0113,RND,Mukut Bihari
+0114,Bearberry,1,1,0114,SaBP,Rahul Gandhi
+0115,Begonia,1,1,0115,NTP,KANWAR SINGH TANWAR
+0116,Bluebell,1,1,0116,NLP,RUCHIVIRA
+0117,Bluet,1,1,0117,KVD,Dinesh Lal Yadav Nirahua
+0118,Camellia,1,1,0118,BBMP,Dharmendra Yadav
+0119,Carnation,1,1,0119,BIP,JAYANT CHAUDHARY
+0120,Catmint,1,1,0120,APCP,SHABBIR BALMIKI
+0121,Chrysanthemum,1,1,0121,BJKD,Sanatan Pandey
+0122,Common poppy,1,1,0122,HVD,SHYAMA CHARAN GUPTA
+0123,Coneflower,1,1,0123,ABJS,Sadal Prasad
+0124,Cupcakes white,1,1,0124,PMSP,Ram Sagar Rawat
+0125,Daffodil,1,1,0125,SBSP,BHAGWAT SARAN GANGWAR
+0126,Dahlia,1,1,0126,RSWD,RAM PRASAD CHAUDHARY
+0127,Daisy,1,1,0127,SSD,RANGNATH MISHRA
+0128,Feverfew,1,1,0128,RAHM,RAJA BHARATENDRA SINGH
+0129,Flamingo flower,1,1,0129,MOSP,YOGESH VERMA
+0130,Hibiscus,1,1,0130,HEP,Sanjay Singh Chauhan
+0131,Hyacinth,1,1,0131,IVD,BINOD KUMAR JAISWAL
+0132,Hydrangea,1,1,0132,RGOP,ARSHAD ILIYAS SIDDIQUI
+0133,Iris,1,1,0133,APoI,AFTAB ALAM
+0134,Lavender,1,1,0134,BSCP,Ku. Devendra Singh Yadav
+0135,Lilac,1,1,0135,CSM,KAMLESH KUMAR
+0136,Lily,1,1,0136,chp,ANAND SEN
+0137,Marguerite,1,1,0137,bhmm,Manoj Agarwal
+0138,Marigold,1,1,0138,CPIM,SUKHDEV PRASAD VERMA
+0139,Moonflower,1,1,0139,SSBD,RAJ BABBAR
+0140,Nightshade,1,1,0140,AKAAD,Akshay Yadav
+0141,Orchid,1,1,0141,AD,SATVEER
+0142,Peony,1,1,0142,GOA,Suresh Bansal
+0143,Petunia,1,1,0143,GSRP,MANOJ SINHA
+0144,Primrose,1,1,0144,RPIE,HARINARAYAN
+0145,Rose,1,1,0145,VHS,VINOD KUMAR ALIAS PANDIT SINGH
+0146,Sunflower,1,1,0146,BNJD,Rambhual Nishad
+0147,Thistle,1,1,0147,NYP,DILIP KUMAR SINGH
+0148,Tickseed,1,1,0148,LoRP,Usha Verma
+0149,Treasure flower,1,1,0149,PAP,RAMJI LAL SUMAN
+0150,Tulip,1,1,0150,HND,AJAY SINGH (PANKAJ)
+0151,Violet,1,1,0151,BSDL,KRISHNA PRATAP SINGH K.P.
+0152,Water lily,1,1,0152,ABCD(A),Shyam Sundar Singh
+0153,Wisteria,1,1,0153,LSWP,Tabassum Begum
+0154,Baby’s breath,1,1,0154,RKEP,Chandradev Ram Yadav
+0155,Bachelors button,1,1,0155,YuS,DIMPLE YADAV
+0156,Balloon flower,1,1,0156,RSPS,Sriprakash Jaiswal
+0157,Black-eyed Susan,1,1,0157,ADPT,INDRAJEET SAROJ
+0158,Bleeding heart,1,1,0158,ADSP,Dr. Purvi Verma
+0159,Busy Lizzie,1,1,0159,VoP,N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA
+0160,Butterfly bush,1,1,0160,RAKP,Neelam Sonker
+0161,Flaming Katy,1,1,0161,INLD,Poonam Shatrughan Sinha
+0162,Forget-me-not,1,1,0162,NAJC,Tribhuvan Ram (T.Ram)
+0163,Kangaroo paw,1,1,0163,IBSPK,AKHILESH
+0164,King’s mantle,1,1,0164,LPR,PREM SINGH SHAKYA
+0165,Love in a mist,1,1,0165,BhSMP,KUNWAR NARENDRA SINGH
+0166,Love lies bleeding,1,0,,,
+0167,Miss Willmotts Ghost,1,1,0167,HJCBL,Ramcharitra Nishad
+0168,Obedient plant,1,1,0168,RPP(LB),Dr Neelu Satyarthi
+0169,Shooting star,1,1,0169,RJP(E),C. L. Verma
+0170,Snowy Angels Trumpet,1,1,0170,RJAVP,KUNWAR SARVESH KUMAR
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
